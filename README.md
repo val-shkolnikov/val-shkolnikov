@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @val-shkolnikov
+- 👀 I’m interested in Python and looking to collaborate in its development.
+- 📫 val@nvsoft.net
